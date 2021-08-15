@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pruebaexcel';
+  data = [
+    {
+      1:"asdf"
+    },
+    {
+      1:"1234"
+    }
+  ];
 }
